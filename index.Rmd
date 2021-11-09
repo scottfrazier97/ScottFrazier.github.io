@@ -1,0 +1,14 @@
+---
+title: "Simple_web"
+author: "Scott Frazier"
+date: "11/9/2021"
+output: html_document
+---
+
+#This is some sample text
+
+##This is some more sample text
+
+###EVEN MORE SAMPLE TEXT
+
+Sample text sample text sample text

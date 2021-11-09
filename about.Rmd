@@ -1,0 +1,18 @@
+---
+title: "About Me"
+author: "Scott Frazier"
+date: "11/9/2021"
+output: html_document
+---
+
+Hello and welcome to my DDS website!
+
+Some quick information about me:
+
+  I am originally from Tampa, FL but moved to Texas when I was about seven years old. 
+  
+  I enjoy spending time with family and playing with my one year old goldendoodle named Oliver.
+  
+  I currently work for Conifer Health Solutions as a Business Insight Analyst II. 
+  
+  I graduated from the University of Texas at Dallas in May 2020 with a degree focusing on Criminology.
